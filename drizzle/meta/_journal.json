@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788981928803,
+      "tag": "0000_bid_workspace",
+      "breakpoints": true
+    }
+  ]
+}
